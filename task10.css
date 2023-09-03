@@ -1,0 +1,75 @@
+/* #clock{
+    border: 1px solid black;
+    height: 700px;
+    display: flex;
+    
+ 
+}
+#div1,#div2,#div3{
+    border: 1px solid black;
+    height: 150px;
+    width: 200px;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    margin-top: 180px;
+    margin-left: 100px;
+    border-radius: 30px;
+}
+#div4{
+ border:1px solid black;
+  height:100px;
+  width: 150px;
+  margin-top: 231PX;
+  margin-left: 100PX;
+  text-align: center;
+  background-color: aqua;
+  color: black;
+  border-radius: 30px;
+} */
+#clock{
+    /* border: 1px solid black; */
+    display: flex;
+    text-align: center;
+    height: 150px;
+    gap: 40px;
+    margin-top: 200px;
+    margin-left: 180px;
+}
+.divv{
+    border: 1px solid black;
+    height: 110px;
+    width: 100px;
+    background-color: aqua;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-left: 60px;
+    text-align: center;
+    margin-top: 0px;
+}
+#divvv{
+    border: 1px solid black;
+    height: 80px;
+    width: 90px;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-left: 60px;
+    text-align: center;
+    margin-top:27px;
+}
+#date{
+   display: flex;
+   border: 1px solid black;
+   height: 80px;
+   gap: 20px;
+   width: 450px;
+   text-align: center;
+   margin-left: 350px;
+   margin-bottom: 200px;
+   margin-top: 10px;
+}
+.divv1{
+    text-align: center;
+    margin-top: 1px;
+    margin-left: 60px;
+}
